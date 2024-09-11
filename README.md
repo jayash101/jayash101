@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jayash101<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Vanilla HTML, CSS, JS<br>💞️ I’m looking to collaborate with good people<br>📫 How to reach: {instagram id: @jayashbasnet01}
+👋 Hi, I’m @jayash101<br>👀 I’m interested in Web Development<br>🌱 I’m proficient in Vanilla HTML, CSS, JS and currently learning JavaScript<br>💞️ I’m looking to collaborate with good people<br>📫 How to reach: {instagram id: @jayashbasnet01}
 
 
 ## 🌐 Socials:
