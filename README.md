@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @jayash101<br>👀 I’m interested in Web Development<br>🌱 I’m proficient in Vanilla HTML, CSS, JS, and React.<br>💞️ I’m looking to collaborate with good people<br>📫 How to reach: {LinkedIn Id: https://www.linkedin.com/in/jayash-basnet-199383321/}</p>
+<p align="left">👋 Hi, I’m @jayash101<br>👀 I’m interested in Web Development<br>🌱 I’m proficient in Vanilla HTML, CSS, JS, React and Next.<br>💞️ I’m looking to collaborate with good people<br>📫 How to reach: {LinkedIn Id: https://www.linkedin.com/in/jayash-basnet-199383321/}</p>
 
 ###
 
